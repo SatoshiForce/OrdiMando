@@ -15,34 +15,36 @@ THIS IS THE WAY! 此乃正道！
 ## Inscriptions 銘文
 
 Total Supply: 999 inscriptions, distributed as follows.
-Price：Free
-Team operation: 33(5 inscriptions for Team and 28 inscriptions for marketing)
-Phase 1 Supply: 300 ; Phase 2 Supply: 666 ;
+- Price：Free
+- Team operation: 33(5 inscriptions for Team and 28 inscriptions for marketing)
+- Phase 1 Supply: 300
+- Phase 2 Supply: 666
 
 ### Phase 1: Text white List phase launch
-Supply: 300 inscriptions
-Launch start time: 2023/6/7 12:00 UTC
-The inscriptions will be provided in the text white list until the public phase launch.
+- Supply: 300 inscriptions
+- Launch start time: 2023/6/7 12:00 UTC
+- The inscriptions will be provided in the text white list until the public phase launch.
 
 ### Phase 2: Public Phase Launch
-Supply: 666 inscriptions
-Launch time: According to @OrdiMando Twitter announcement
-All texts will be made available for casting (including the uncast texts of the White List).
+- Supply: 666 inscriptions
+- Launch time: According to [@OrdiMando](https://twitter.com/OrdiMando) Twitter announcement
+- All texts will be made available for casting (including the uncast texts of the White List).
 
 總數量：999枚銘文，分配如下： 
-價格：所有免費 
-團隊運營使用：33枚（5枚保留給內部開發團隊，28枚后期運營使用） 
-第一階段300枚；第二階段666枚。
+- 價格：所有免費 
+- 團隊運營使用：33枚（5枚保留給內部開發團隊，28枚后期運營使用） 
+- 第一階段300枚
+- 第二階段666枚。
 
 ### 第一階段：文本白名單階段
-預計數量：300枚銘文 
-開始時間：2023/6/7 12:00 UTC 
-陸續發放文本白名單，直到公開發佈階段。 
+- 預計數量：300枚銘文 
+- 開始時間：2023/6/7 12:00 UTC 
+- 陸續發放文本白名單，直到公開發佈階段。 
 
 ### 第二階段：公開發佈階段 
-預計數量：666個銘文 
-開始時間：以@OrdiMando 推特公告為準 
-所有文本公開提供鑄造使用包含白名單未被鑄造文本
+- 預計數量：666個銘文 
+- 開始時間：以[@OrdiMando](https://twitter.com/OrdiMando) 推特公告為準 
+- 所有文本公開提供鑄造使用，包含白名單鑄造文本
 
 THIS IS THE WAY! 此乃正道！
 
