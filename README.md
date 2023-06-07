@@ -2,11 +2,11 @@
 
 ## About 簡介
 
-We are excited to announce the OrdiMando, an innovative GBRC721 project featuring a stunning collection of 1000 one-of-a-kind Mando warriors. Thanks to @0xJerry543 for the innovative [GBRC721](https://github.com/jerryfane/generative-brc-721), the Ordinals world has been enriched with countless amazing possibilities! 
+We are excited to announce the OrdiMando, an innovative GBRC721 project featuring a stunning collection of 999 one-of-a-kind Mando warriors. Thanks to @0xJerry543 for the innovative [GBRC721](https://github.com/jerryfane/generative-brc-721), the Ordinals world has been enriched with countless amazing possibilities! 
 
 Mandos is a team of armored warriors who travel through the universe, sometimes as bounty hunters and other times descending from the sky to bring justice. Their legend is widely spread throughout the entire galaxy. Mandos adheres to tradition and regards the tribe's customs as the right way.
 
-我们很榮幸地宣布OrdiMando，一个创新型GBRC721项目，包含1000个独一无二的Mando战士。感谢@0xJerry543提供的创新協議 [GBRC721](https://github.com/jerryfane/generative-brc-721)，使得Ordinals世界充满了無限可能！
+我们很榮幸地宣布OrdiMando，一个创新型GBRC721项目，包含999个独一无二的Mando战士。感谢@0xJerry543提供的创新協議 [GBRC721](https://github.com/jerryfane/generative-brc-721)，使得Ordinals世界充满了無限可能！
 
 Mandos是一支穿著盔甲的戰士團隊，穿梭於宇宙之間，有時作為賞金獵人，有時從天而降，帶來正義。他們的傳說在整個銀河系廣為流傳。Mandos堅守傳統，把部落的傳統奉為正道。
 
