@@ -30,7 +30,7 @@ Total Supply: 999 inscriptions, distributed as follows.
 ### Phase 2: Public Phase Launch
 - Supply: 666 inscriptions
 - Launch time: According to [@OrdiMando](https://twitter.com/OrdiMando) Twitter announcement
-- All texts will be made available for casting (including the uncast texts of the White List).
+- All texts will be made available for minting (including the uncast texts of the White List).
 
 總數量：999枚銘文，分配如下： 
 - 價格：所有免費 
