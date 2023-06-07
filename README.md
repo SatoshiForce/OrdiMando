@@ -1,5 +1,7 @@
 # OrdiMando
 
+![OrdiMando Banner](https://pbs.twimg.com/media/Fx_6kLhaIAEihj3?format=png&name=large)
+
 ## About 簡介
 
 We are excited to announce the OrdiMando, an innovative GBRC721 project featuring a stunning collection of 999 one-of-a-kind Mando warriors. Thanks to @0xJerry543 for the innovative [GBRC721](https://github.com/jerryfane/generative-brc-721), the Ordinals world has been enriched with countless amazing possibilities! 
