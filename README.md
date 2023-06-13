@@ -60,7 +60,7 @@ THIS IS THE WAY! 此乃正道！
 
 ### 1. Get a SVG File 获得SVG文件
 
-從白名單活動，或則公開階段獲得SVG文件。下載到本地。
+從白名單活動，或者公開階段獲得SVG文件。下載到本地。
 
 Get SVG files from whitelist phase or public phase. Download to local.
 
