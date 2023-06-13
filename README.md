@@ -1,14 +1,20 @@
-# OrdiMando
+# OrdiMando Recursive
 
 ![OrdiMando Banner](https://pbs.twimg.com/media/Fx_6kLhaIAEihj3?format=png&name=large)
 
 ## About 簡介
 
-We are excited to announce the OrdiMando, an innovative GBRC721 project featuring a stunning collection of 999 one-of-a-kind Mando warriors. Thanks to @0xJerry543 for the innovative [GBRC721](https://github.com/jerryfane/generative-brc-721), the Ordinals world has been enriched with countless amazing possibilities! 
+We are excited to announce the OrdiMando Recursive, an innovative ordinals project powered by Recursive inscriptions. OrdiMando Recursive featuring a stunning collection of 999 one-of-a-kind Mando warriors.
 
-Mandos is a team of armored warriors who travel through the universe, sometimes as bounty hunters and other times descending from the sky to bring justice. Their legend is widely spread throughout the entire galaxy. Mandos adheres to tradition and regards the tribe's customs as the right way.
+[Recursive inscriptions](https://github.com/ordinals/ord/pull/2174) is an exciting feature recently merged into the Ordinals project by [@rodarmor](https://twitter.com/rodarmor), the inventor of the Ordinal protocol. This feature provides an elegant way for inscriptions to call each other, injecting infinite imagination into Ordinals.
 
-我们很榮幸地宣布OrdiMando，一个创新型GBRC721项目，包含999个独一无二的Mando战士。感谢@0xJerry543提供的创新協議 [GBRC721](https://github.com/jerryfane/generative-brc-721)，使得Ordinals世界充满了無限可能！
+Recursive inscriptions provide native support for generative ordinals, eliminating the need for additional high-level protocol support. At the same time, Recursive inscriptions break through the size limitations of inscriptions, both of which will bring unlimited imagination. We are delighted to choose more suitable technologies. 
+
+Mandos are a team of armored warriors who travel through the universe, sometimes as bounty hunters and other times descending from the sky to bring justice. Their legend is widely spread throughout the entire galaxy. Mandos follows to tribe's tradition as the right way.
+
+我们很榮幸地宣布OrdiMando Recursive，一个使用递归铭文记述的创新Ordinal项目。OrdiMando Recursive包含999个独一无二的Mando战士。
+
+递归铭文是最近由@rodarmor（Ordinal协议的发明者）合并到Ordinals项目中的一个令人兴奋的功能。该功能为铭文之间提供了一种优雅的调用方式，为Ordinals注入了无限的想象力。递归铭文提供了对生成式Ordinals的原生支持，消除了对额外高级协议支持的需求。同时，递归铭文突破了铭文的大小限制，这两者都将带来无限的想象力。OrdiMando很高兴能选择更适合的技术。
 
 Mandos是一支穿著盔甲的戰士團隊，穿梭於宇宙之間，有時作為賞金獵人，有時從天而降，帶來正義。他們的傳說在整個銀河系廣為流傳。Mandos堅守傳統，把部落的傳統奉為正道。
 
@@ -25,12 +31,12 @@ Total Supply: 999 inscriptions, distributed as follows.
 ### Phase 1: Text white List phase launch
 - Supply: 300 inscriptions
 - Launch start time: 2023/6/7 12:00 UTC
-- The inscriptions will be provided in the text white list until the public phase launch.
+- The inscriptions will be provided to whitelist users in SVG format. Please inscript them promptly upon receipt.
 
 ### Phase 2: Public Phase Launch
 - Supply: 666 inscriptions
 - Launch time: According to [@OrdiMando](https://twitter.com/OrdiMando) Twitter announcement
-- All texts will be made available for minting (including the uncast texts of the White List).
+- All SVG files will be made available for minting (including the unmint SVG files of the Whitelist Phase).
 
 總數量：999枚銘文，分配如下： 
 - 價格：所有免費 
@@ -41,19 +47,39 @@ Total Supply: 999 inscriptions, distributed as follows.
 ### 第一階段：文本白名單階段
 - 預計數量：300枚銘文 
 - 開始時間：2023/6/7 12:00 UTC 
-- 陸續發放文本白名單，直到公開發佈階段。 
+- 陸續發放SVG文件给白名单用户，直到公開發佈階段。
 
 ### 第二階段：公開發佈階段 
 - 預計數量：666個銘文 
 - 開始時間：以[@OrdiMando](https://twitter.com/OrdiMando) 推特公告為準 
-- 所有文本公開提供鑄造使用，包含白名單鑄造文本
+- 所有SVG文件公開提供鑄造使用，包含白名單阶段未鑄造的SVG文件。
 
 THIS IS THE WAY! 此乃正道！
 
 ## How to Inscribe 如何銘刻
 
-To inscribe your text on [Unisat](https://unisat.io/), simply copy a line of text, open the platform, select the inscription text, and paste it in. Please check for duplicates to avoid unnecessary gas fees. Please note that only the first inscribed token will be included in the collection.
+### 1. Get a SVG File 获得SVG文件
 
-要在[Unisat](https://unisat.io/)上銘刻文本，首先複製一行文本，打開平台，選擇銘刻文本，然後粘貼進去。請檢查是否有重複，以避免不必要的浪費。請注意，合集僅會收錄第一枚有效的銘刻。
+從白名單活動，或則公開階段獲得SVG文件。下載到本地。
+
+Get SVG files from whitelist phase or public phase. Download to local.
+
+### 2. duplication check 查重
+
+进入下面网址，拖动文件到Hash Check处，如果显示No Records，说明没有重复，可以继续銘刻。如果显示有重复的铭文，请选择其他SVG文件继续查重。
+
+Please go to the following website and drag the file to the Hash Check section. If "No Records Found" is displayed, it means there are no duplicates and you can proceed with engraving. If duplicates are found, please select another SVG file to continue checking for duplicates.
+
+https://bitpunks.io/Explorer/Inscriptions
+
+### 3. Inscribe 铭刻
+
+To inscribe your SVG files on [Unisat](https://unisat.io/), simply prepare the SVG file, open the platform, select Inscribe, select Files, Drag and drop your SVG files to the inscribing region, or click to select SVG files. Then Submit. Please wait for a moment, and you will have an nice inscription.
+
+Please check for duplicates to avoid unnecessary gas fees. Please note that only the first inscribed token will be included in the collection.
+
+要在[Unisat](https://unisat.io/)上銘刻递归铭文，首先准备好SVG文件，打開平台，選擇銘刻，选择铭刻文件，点选一个或者多个SVG文件。点击提交。
+
+注意，請在步骤2檢查是否有重複，以避免不必要的浪費。請注意，合集僅會收錄第一枚有效的銘刻。
 
 THIS IS THE WAY! 此乃正道！
