@@ -64,13 +64,13 @@ THIS IS THE WAY! 此乃正道！
 
 Get SVG files from whitelist phase or public phase. Download to local.
 
-### 2. duplication check 查重
+### 2. Duplication Check 查重
 
-进入下面网址，拖动文件到Hash Check处，如果显示No Records，说明没有重复，可以继续銘刻。如果显示有重复的铭文，请选择其他SVG文件继续查重。
+进入下面网址，切換到Hash Check頁面，拖动文件到Hash Check區域，等待查詢結果，如果显示："We could not find this image inscription yet."，说明没有重复，可以繼續下一個步驟。如果显示有重复的铭文，请选择其他SVG文件继续查重。
 
-Please go to the following website and drag the file to the Hash Check section. If "No Records Found" is displayed, it means there are no duplicates and you can proceed with engraving. If duplicates are found, please select another SVG file to continue checking for duplicates.
+Please go to the following website, switch to Hash Check page, and drag the file to the Hash Check section. If "We could not find this image inscription yet." is displayed, it means there are no duplicates and you can go to next step. If duplicates are found, please select another SVG file to continue checking for duplicates.
 
-https://bitpunks.io/Explorer/Inscriptions
+[https://ordinalsbot.com/](https://ordinalsbot.com/)
 
 ### 3. Inscribe 铭刻
 
