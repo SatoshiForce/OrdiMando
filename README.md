@@ -26,6 +26,10 @@ THIS IS THE WAY! 此乃正道！
 
 ## Inscriptions 銘文
 
+**注意：所有SVG文件均已被銘刻，請不要再繼續嘗試！**
+
+**Note: All SVG files have already been inscribed, please do not attempt to inscribe again.**
+
 Total Supply: 999 inscriptions, distributed as follows.
 - Price：Free
 - Team operation: 33(5 inscriptions for Team and 28 inscriptions for marketing)
