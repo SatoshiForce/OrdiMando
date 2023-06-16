@@ -2,6 +2,10 @@
 
 ![OrdiMando Banner](https://pbs.twimg.com/media/Fx_6kLhaIAEihj3?format=png&name=large)
 
+**注意：所有SVG文件均已被銘刻，請不要再繼續嘗試！**
+
+**Note: All SVG files have already been inscribed, please do not attempt to inscribe again.**
+
 ## About 簡介
 
 We are excited to announce the OrdiMando Recursive, an innovative ordinals project powered by Recursive inscriptions. OrdiMando Recursive featuring a stunning collection of 999 one-of-a-kind Mando warriors.
