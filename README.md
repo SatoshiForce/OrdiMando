@@ -35,8 +35,8 @@ Total Supply: 999 inscriptions, distributed as follows.
 
 ### Phase 2: Public Phase Launch
 - Supply: 666 inscriptions
-- Launch time: According to [@OrdiMando](https://twitter.com/OrdiMando) Twitter announcement
-- All SVG files will be made available for minting (including the unmint SVG files of the Whitelist Phase).
+- Launch time: 2023/6/16 11:00 UTC
+- All 666 SVG files of Public Phase will be made available for minting.  After four hours, all 999 SVG files will be made public(including the unmint SVG files of the Whitelist Phase).
 
 總數量：999枚銘文，分配如下： 
 - 價格：所有免費 
@@ -51,8 +51,8 @@ Total Supply: 999 inscriptions, distributed as follows.
 
 ### 第二階段：公開發佈階段 
 - 預計數量：666個銘文 
-- 開始時間：以[@OrdiMando](https://twitter.com/OrdiMando) 推特公告為準 
-- 所有SVG文件公開提供鑄造使用，包含白名單阶段未鑄造的SVG文件。
+- 開始時間：2023/6/16 11:00 UTC
+- 所有666个SVG文件公開提供銘刻。4個小時後，所有999個SVG文件將公開，包含白名單阶段未鑄造的SVG文件。
 
 THIS IS THE WAY! 此乃正道！
 
